@@ -61,7 +61,7 @@ const Login = () => {
 								<span className="label-input100">Password</span>
 								<input
 									className="input100"
-									type="text"
+									type="password"
 									name="password"
 									placeholder="Type your password"
 									onChange={handleChange}
